@@ -1,4 +1,4 @@
-# data_base_sql_php
+# sql_lib
 - Library for communicating with the database
 - Библиотека упростит работу с вашей базой данных
 
